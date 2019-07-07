@@ -1,0 +1,7 @@
+{
+  "appId": "com.labelme.app",
+  "appName": "label-me",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www"
+}
